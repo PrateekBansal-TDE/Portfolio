@@ -44,7 +44,7 @@ body {
 }
 
 .navbar ul li .active{
-    color: #284323;
+    color: #000;
 }
 
 .navbar ul li a:hover{
